@@ -1,38 +1,13 @@
-*.class
-
-*.pydevproject
-.metadata
-bin/
-tmp/
-target/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.loadpath
-.DS_Store
-.__afs*
-
-# External tool builders
-.externalToolBuilders/
-
-# Locally stored "Eclipse launch configurations"
-*.launch
-
-# CDT-specific
-.cproject
-
-# PDT-specific
-.buildpath
-
-# Python
+*~
 *.pyc
-*.npy
-*.pkl
-
-# Miltository specific
-*.ser
+logs/
+.vscode/
+*.blg
+*.log
+*.bbl
+*.out
+*.aux
+*.synctex.gz
+target/
 runParameters.txt
-default.properties
-.settings/
+.idea/
